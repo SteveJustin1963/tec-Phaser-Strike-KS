@@ -7,8 +7,9 @@ It was meant to be a version of "phaser strike", the real life laser tag game. I
 
 SJ; "Wow this is amazing ! Am sure our Jedi group would love to acknowledge and praise your effort, help bring this back to life; make the boards, load your code and defend the Rebel Alliance."
 
+![](https://github.com/SteveJustin1963/tec-Phaser-Strike-KS/blob/master/pics/94097003_10157273306082014_7682241250249932800_o.jpg)
+
 ![](https://github.com/SteveJustin1963/tec-Phaser-Strike-KS/blob/master/pics/93556062_10157273403902014_5753306128343629824_o.jpg)
-![]()
 
 
 ## References
