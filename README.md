@@ -9,3 +9,9 @@ SJ; "Wow this is amazing ! Am sure our Jedi group would love to acknowledge and 
 
 ![]()
 ![]()
+
+
+## References
+
+https://en.wikipedia.org/wiki/Star_Trek:_Phaser_Strike
+
