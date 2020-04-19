@@ -15,3 +15,5 @@ SJ; "Wow this is amazing ! Am sure our Jedi group would love to acknowledge and 
 
 https://en.wikipedia.org/wiki/Star_Trek:_Phaser_Strike
 
+https://memory-alpha.fandom.com/wiki/Star_Trek:_Phaser_Strike
+
