@@ -18,6 +18,8 @@ https://en.wikipedia.org/wiki/Star_Trek:_Phaser_Strike
 
 https://memory-alpha.fandom.com/wiki/Star_Trek:_Phaser_Strike
 
+https://www.youtube.com/watch?v=uwtGBQ0paVc
+
 ## Iterate
 * Make other games to re-enact the Trek story line 
 * Make Star Wars versions
