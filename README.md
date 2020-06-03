@@ -1,5 +1,10 @@
 # tec-Phaser-Strike-KS
 
+Project belongs to Ken Stone, as found on https://www.facebook.com/groups/623556744820045/
+
+no software
+
+
 ## Acknowledgement
 
 Ken Stone; "This was a "child" of the TEC-1. The first version was made by modifying my blue prototype.
