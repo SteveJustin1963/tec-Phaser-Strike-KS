@@ -2,7 +2,7 @@
 
 Project belongs to Ken Stone, as found on https://www.facebook.com/groups/623556744820045/
 
-no software
+software at text file, requested
 
 
 ## Acknowledgement
